@@ -1,0 +1,39 @@
+Nome da Clínica: OdontoVida
+Endereço: Rua das Flores, 123, Centro, São Paulo - SP, CEP: 01010-000
+
+Horário de Funcionamento:
+
+Segunda a Sexta: 08h00 - 19h00
+Sábado: 08h00 - 14h00
+Domingo e feriados: Fechado
+
+
+Especialidades Atendidas:
+
+Clínica Geral - Limpeza, remoção de cáries, aplicação de flúor.
+Ortodontia - Aparelhos dentários fixos e móveis.
+Implantodontia - Implantes dentários para reposição de dentes perdidos.
+Endodontia - Tratamento de canal.
+Periodontia - Tratamento de gengivite e periodontite.
+Prótese Dentária - Próteses fixas e removíveis.
+Odontopediatria - Atendimento especializado para crianças.
+Estética Dental - Clareamento, lentes de contato dentais, facetas de porcelana.
+Cirurgia Oral - Extração de sisos e outras cirurgias bucais.
+Procedimentos Realizados e Explicações Rápidas:
+Limpeza Dental (Profilaxia): Remove placa bacteriana e tártaro, prevenindo cáries e gengivite.
+Clareamento Dental: Uso de gel clareador para deixar os dentes mais brancos.
+Aparelho Ortodôntico: Corrige o alinhamento dos dentes e a mordida.
+Implante Dentário: Colocação de pinos de titânio no osso para suportar dentes artificiais.
+Tratamento de Canal: Retira a polpa infectada do dente e sela a raiz.
+Facetas e Lentes de Contato: Laminados finos para melhorar a aparência dos dentes.
+Extração do Siso: Remoção do dente do siso quando causa dor ou desalinhamento.
+Próteses Dentárias: Solução para ausência de dentes, podendo ser fixas ou removíveis.
+Tratamento de Gengivite: Remoção de placa abaixo da gengiva para reduzir inflamação.
+Atendimento Infantil: Cuidados odontológicos específicos para crianças, prevenindo problemas futuros.
+
+
+Contato:
+Telefone: (11) 1234-5678
+WhatsApp: (11) 91234-5678
+E-mail: contato@odontovida.com.br
+Site: www.odontovida.com.br
